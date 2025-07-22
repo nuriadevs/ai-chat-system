@@ -263,13 +263,9 @@ Open your browser and navigate to `http://localhost:3000` to start chatting with
 
 For detailed setup instructions and API documentation, check the individual README files:
 
-  
+- **Backend Documentation**: [Backend Documentation](https://github.com/nuriadevs/ai-chat-system/blob/main/backend-chat/README.md)
+- **Frontend Documentation**: [Frontend Documentation](https://github.com/nuriadevs/ai-chat-system/blob/main/frontend-chat/README.md)
 
--  **Backend Documentation**:
-
--  **Frontend Documentation**:
-
-  
 
 ## 🧪 Testing
 
@@ -339,14 +335,9 @@ For complete API documentation, visit `http://localhost:8000/docs` when the back
   
 
 ### Mobile
-
   
 
-<img
-
-src="images/mobile-view.png"  alt="Mobile View"
-
-style="width: 200px;"/>
+<img src="images/mobile-view.png"  alt="Mobile view" style="width: 200px;"/>
 
   
 

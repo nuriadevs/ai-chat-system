@@ -130,8 +130,8 @@ El frontend estará ejecutándose en `http://localhost:3000`
 
 Para instrucciones de configuración detalladas y documentación de la API, consulta los archivos README individuales:
 
--   **Documentación del Backend**:
--   **Documentación del Frontend**:
+- **Documentación Backend**: [Backend Documentation](https://github.com/nuriadevs/ai-chat-system/blob/main/backend-chat/README.es.md)
+- **Documentación Frontend**: [Frontend Documentation](https://github.com/nuriadevs/ai-chat-system/blob/main/frontend-chat/README.es.md)
 
 ## 🧪 Pruebas
 
@@ -181,11 +181,7 @@ Para la documentación completa de la API, visita `http://localhost:8000/docs` c
 
   
 
-<img
-
-src="images/mobile-view.png"  alt="Mobile View"
-
-style="width: 200px;"/>
+<img src="images/mobile-view.png"  alt="Mobile View" style="width: 200px;"/>
 
 
 ## 🤝 Contribuir
